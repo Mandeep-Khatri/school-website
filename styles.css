@@ -203,7 +203,13 @@ body {
   font-family: "Merriweather", serif;
   font-weight: 900;
   line-height: 1.08;
-  font-size: clamp(2rem, 4.8vw, 3.7rem);
+  font-size: clamp(1.85rem, 4vw, 3.2rem);
+  text-align: center;
+}
+
+.hero-copy h1 .line-center {
+  display: block;
+  text-align: center;
 }
 
 .hero-copy p {
@@ -572,6 +578,7 @@ body {
     white-space: normal;
     font-size: 1.06rem;
   }
+
 
   .hero-grid,
   .split,
