@@ -28,7 +28,7 @@ python3 -m http.server 8000
 
 Open:
 
-`http://localhost:8000`
+[www.nisebs.com](http://www.nisebs.com/)
 
 ## Repository
 
